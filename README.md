@@ -14,8 +14,12 @@ Start the Quartus II Programmer.
 
 Click Add File and select the path to the desired .sof.
 Turn on the Program/Configure option for the added file.
-![Uploading image.png…]()
 Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
-![Uploading WhatsApp Image 2022-11-22 at 17.52.40.jpg…]()
-![Uploading WhatsApp Image 2022-11-22 at 17.52.42.jpg…]()
-### RESULTS 
+![image](https://user-images.githubusercontent.com/94165103/203545839-cc14ca72-fd76-4580-9424-1ec5d90c580c.png)
+### OUTPuT
+![image](https://user-images.githubusercontent.com/94165103/203546023-96a5eed5-6724-428e-a883-42bdba78a52b.png)
+
+![image](https://user-images.githubusercontent.com/94165103/203546100-c34f1b3d-85f2-4105-8b19-de6b45c47396.png)
+### RESULT
+
+Therefore the standard procedure to interface an FPGA board and flashing method using usb blaster are understood.
